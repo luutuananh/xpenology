@@ -1,6 +1,7 @@
-# Welcome to MkDocs
+# Xpenology toàn tập
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Tổng hợp nhiều thông tin liên quan đến Xpenology.
+Tham gia group [facebook](https://www.facebook.com/groups/synologyclub) để thảo luận thêm.
 
 ## Commands
 
