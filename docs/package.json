@@ -7,7 +7,7 @@
     "name": "Anh Luu",
     "email": "luutuananh@hotmail.com"
   },
-  "repository": "https://github.com/luutuananh/xpenology/xpenology",
+  "repository": "/xpenology",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
