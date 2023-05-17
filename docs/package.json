@@ -1,0 +1,19 @@
+{
+  "name": "xpenology",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "Anh Luu",
+    "email": "luutuananh@hotmail.com"
+  },
+  "repository": "https://github.com/luutuananh/xpenology/xpenology",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
