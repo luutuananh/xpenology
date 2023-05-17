@@ -18,7 +18,14 @@ Xpenology không được Synology chính thức hỗ trợ và không được 
 
 * Tiết kiệm chi phí: Bạn có thể tận dụng phần cứng tự lắp ráp có sẵn để chạy DSM, thay vì phải mua các sản phẩm chính thức từ Synology. Điều này có thể tiết kiệm một số tiền lớn.
 * Linh hoạt về phần cứng: Xpenology cho phép bạn tuỳ chỉnh phần cứng theo ý muốn, bao gồm việc chọn CPU, RAM, ổ cứng, card mạng, v.v. Bạn có thể xây dựng một hệ thống phù hợp với nhu cầu và ngân sách của mình.
-* Truy cập vào cộng đồng sáng tạo: Xpenology có một cộng đồng người dùng lớn, và bạn có thể tìm thấy hỗ trợ, tài liệu và các gói mở rộng từ cộng đồng này. Bạn có thể học hỏi và chia sẻ kiến thức với những người có cùng sở thích.
+* Tham gia vào cộng đồng sáng tạo: Xpenology có một cộng đồng người dùng lớn, và bạn có thể tìm thấy hỗ trợ, tài liệu và các gói mở rộng từ cộng đồng này. Bạn có thể học hỏi và chia sẻ kiến thức với những người có cùng sở thích.
+
+### Nhược điểm
+
+* Không được hỗ trợ chính thức: Xpenology không được Synology hỗ trợ chính thức. Điều này có nghĩa là bạn phải tự chịu trách nhiệm về việc cài đặt, cấu hình và duy trì hệ thống của mình. Không có bảo hành hoặc hỗ trợ kỹ thuật từ nhà sản xuất.
+* Không đảm bảo tính ổn định: Xpenology không được kiểm tra hoặc xác nhận bởi Synology, do đó không đảm bảo tính ổn định và tương thích tuyệt đối. Có thể xảy ra các lỗi, sự cố hoặc hạn chế trong việc sử dụng.
+* Vi phạm các điều khoản sử dụng: Sử dụng Xpenology có thể vi phạm các điều khoản sử dụng của Synology. Mặc dù không phổ biến, nhưng tồn tại nguy cơ Synology có thể ngừng hỗ trợ và pháp lý hoặc hạn chế việc sử dụng Xpenology.
+* Cập nhật và nâng cấp phức tạp: Khi Synology phát hành bản cập nhật hoặc nâng cấp DSM, việc áp dụng các bản cập nhật này lên Xpenology có thể
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
