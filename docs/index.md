@@ -1,6 +1,10 @@
 # Giới thiệu
 
-Trang web này tổng hợp nhiều thông tin liên quan đến Xpenology.
+Trang web này tổng hợp nhiều thông tin liên quan đến Xpenology. 
+
+Trong lúc tự tìm hiểu để set up Xpenology mình thấy khá khó khăn vì thông tin rải rác khắp mọi nơi và không có một hướng dẫn nào hoàn chỉnh. Nên mình quyết định tổng hợp và viết thành website này để các bạn có thể tiếp cận với Xpenology một cách dễ dàng hơn.
+
+Các hướng dẫn trên website này mình cũng lượm lặt nhiều nơi trên internet, nên chắc chắn không thể tránh khỏi sai sót. Nếu bạn thấy có thông tin nào sai hoặc có bài viết nào hay muốn mình đăng lên đây thì vào comment ở [post này](https://www.facebook.com/groups/synologyclub/posts/1412760599298048/) nhé.
 
 ## Xpenology là gì?
 
@@ -9,6 +13,8 @@ Xpenology là một dự án mã nguồn mở dựa trên hệ điều hành Syn
 Xpenology cho phép bạn cài đặt và chạy DSM trên phần cứng không chính thức, bao gồm các máy tính cá nhân hoặc các máy chủ tự build. Xpenology thường được cài đặt trên các máy tính đã qua sử dụng, các máy tính có hiệu năng thấp không đủ đáp ứng các tác vụ cho người dùng hiện nay. Sử dụng Xpenology là một cách để tận dụng lại các phần cứng cũ, giúp các máy tính này có thể có chút tác dụng thay vì nằm một chỗ đóng bụi.
 
 Xpenology không được Synology chính thức hỗ trợ và không được công nhận là một phần của sản phẩm chính thức của họ, Synology không hỗ trợ bạn nếu bạn bị mất hoặc lộ dữ liệu, hư hỏng phần cứng khi sử dụng Xpenology.
+
+Để có trải nghiệm DSM tốt nhất, bạn nên mua sản phẩm chính thức từ Synology.
 
 ## Ưu nhược điểm khi sử dụng Xpenology
 
