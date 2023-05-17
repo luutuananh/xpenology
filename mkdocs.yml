@@ -4,4 +4,7 @@ theme:
   language: vi
   palette:
     scheme: slate
-  repo_url: https://github.com/luutuananh/xpenology
+repo_url: https://github.com/luutuananh/xpenology
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
