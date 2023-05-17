@@ -1,3 +1,6 @@
 site_name: Hướng dẫn Xpenology toàn tập
 theme:
   name: material
+  language: vi
+  palette:
+    scheme: slate
