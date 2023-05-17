@@ -29,16 +29,17 @@ Việc sử dụng Xpenology đem lại sự linh hoạt và tiết kiệm chi p
 * Vi phạm các điều khoản sử dụng: Sử dụng Xpenology có thể vi phạm các điều khoản sử dụng của Synology. Mặc dù không phổ biến, nhưng tồn tại nguy cơ Synology có thể ngừng hỗ trợ và pháp lý hoặc hạn chế việc sử dụng Xpenology.
 * Cập nhật và nâng cấp phức tạp: Khi Synology phát hành bản cập nhật hoặc nâng cấp DSM, việc áp dụng các bản cập nhật này lên Xpenology có thể phức tạp và gặp khó khăn. Có thể cần thực hiện các bước tùy chỉnh hoặc chờ đợi sự hỗ trợ từ cộng đồng.
 
+## Cộng đồng Xpenology
 
+Dưới đây là một số trang web nổi tiếng và cộng đồng được biết đến nhiều về Xpenology:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+1. Xpenology Forum: https://xpenology.com/forum/
+⋅⋅⋅Đây là một diễn đàn chính thức và phổ biến nhất về Xpenology. Các phiên bản mới nhất thường được cập nhật và bàn luận tại diễn đàn này. Bạn có thể tìm thấy thông tin, hướng dẫn, gói mở rộng và cộng đồng người dùng Xpenology tại đây.
+2. Xpenology Club: https://xpenology.club/
+⋅⋅⋅Xpenology Club cung cấp các bài viết, hướng dẫn và tin tức mới nhất về Xpenology. Bạn có thể tìm thấy các bài viết hướng dẫn chi tiết, gói mở rộng và thảo luận trong cộng đồng.
 
-## Project layout
+    Reddit Xpenology: https://www.reddit.com/r/xpenology/
+    Reddit Xpenology là một cộng đồng Reddit dành riêng cho người dùng Xpenology. Bạn có thể tìm thấy các bài viết, thảo luận, và chia sẻ kinh nghiệm với những người sử dụng khác.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    Synology Community: https://community.synology.com/
+    Đây là diễn đàn chính thức của Synology, nhưng cũng có một số thông tin và thảo luận về Xpenology. Bạn có thể tìm thấy hướng dẫn và câu trả lời từ cộng đồng người dùng Synology tại đây.
