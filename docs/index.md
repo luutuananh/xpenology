@@ -2,8 +2,6 @@
 
 Trang web này tổng hợp nhiều thông tin liên quan đến Xpenology.
 
-Tham gia group [facebook](https://www.facebook.com/groups/synologyclub) để thảo luận thêm.
-
 ## Xpenology là gì?
 
 Xpenology là một dự án mã nguồn mở dựa trên hệ điều hành Synology DiskStation Manager (DSM). DSM là một hệ điều hành dành riêng cho máy chủ lưu trữu dữ liệu được phát triển bởi Synology, một công ty chuyên về các giải pháp lưu trữ và quản lý dữ liệu.
@@ -33,18 +31,18 @@ Việc sử dụng Xpenology đem lại sự linh hoạt và tiết kiệm chi p
 
 Dưới đây là một số trang web nổi tiếng và cộng đồng được biết đến nhiều về Xpenology:
 
-1. Xpenology Forum: [https://xpenology.com/forum/]
+1. Xpenology Forum: <https://xpenology.com/forum/>
 
 ⋅⋅⋅Đây là một diễn đàn chính thức và phổ biến nhất về Xpenology. Các phiên bản mới nhất thường được cập nhật và bàn luận tại diễn đàn này. Bạn có thể tìm thấy thông tin, hướng dẫn, gói mở rộng và cộng đồng người dùng Xpenology tại đây.
 
-2. Cộng đồng Syno - XPEnology Việt Nam: [https://www.facebook.com/groups/synologyclub]
+2. Cộng đồng Syno - XPEnology Việt Nam: <https://www.facebook.com/groups/synologyclub>
 
 ⋅⋅⋅Cộng đồng người dùng Synology và Xpenology trên Facebook. 
 
-3. Reddit Xpenology: [https://www.reddit.com/r/xpenology/]
+3. Reddit Xpenology: <https://www.reddit.com/r/xpenology/>
     
 ⋅⋅⋅Reddit Xpenology là một cộng đồng Reddit dành riêng cho người dùng Xpenology. Bạn có thể tìm thấy các bài viết, thảo luận, và chia sẻ kinh nghiệm với những người sử dụng khác.
 
-4. Synology Community: [https://community.synology.com/]
+4. Synology Community: <https://community.synology.com/>
 
 ⋅⋅⋅Đây là diễn đàn chính thức của Synology, nhưng cũng có một số thông tin và thảo luận về Xpenology. Bạn có thể tìm thấy hướng dẫn và câu trả lời từ cộng đồng người dùng Synology tại đây.
