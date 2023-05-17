@@ -1,4 +1,4 @@
-# Xpenology toàn tập
+# Giới thiệu về Xpenology
 
 Tổng hợp nhiều thông tin liên quan đến Xpenology.
 
@@ -16,9 +16,9 @@ Xpenology không được Synology chính thức hỗ trợ và không được 
 
 ### Ưu điểm
 
-*Tiết kiệm chi phí: Bạn có thể tận dụng phần cứng tự lắp ráp có sẵn để chạy DSM, thay vì phải mua các sản phẩm chính thức từ Synology. Điều này có thể tiết kiệm một số tiền lớn.
-*Linh hoạt về phần cứng: Xpenology cho phép bạn tuỳ chỉnh phần cứng theo ý muốn, bao gồm việc chọn CPU, RAM, ổ cứng, card mạng, v.v. Bạn có thể xây dựng một hệ thống phù hợp với nhu cầu và ngân sách của mình.
-*Truy cập vào cộng đồng sáng tạo: Xpenology có một cộng đồng người dùng lớn, và bạn có thể tìm thấy hỗ trợ, tài liệu và các gói mở rộng từ cộng đồng này. Bạn có thể học hỏi và chia sẻ kiến thức với những người có cùng sở thích.
+* Tiết kiệm chi phí: Bạn có thể tận dụng phần cứng tự lắp ráp có sẵn để chạy DSM, thay vì phải mua các sản phẩm chính thức từ Synology. Điều này có thể tiết kiệm một số tiền lớn.
+* Linh hoạt về phần cứng: Xpenology cho phép bạn tuỳ chỉnh phần cứng theo ý muốn, bao gồm việc chọn CPU, RAM, ổ cứng, card mạng, v.v. Bạn có thể xây dựng một hệ thống phù hợp với nhu cầu và ngân sách của mình.
+* Truy cập vào cộng đồng sáng tạo: Xpenology có một cộng đồng người dùng lớn, và bạn có thể tìm thấy hỗ trợ, tài liệu và các gói mở rộng từ cộng đồng này. Bạn có thể học hỏi và chia sẻ kiến thức với những người có cùng sở thích.
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
