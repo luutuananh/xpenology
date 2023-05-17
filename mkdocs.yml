@@ -8,3 +8,7 @@ repo_url: https://github.com/luutuananh/xpenology
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
+nav:
+  - 'index.md'
+  - 'caidat.md'
+  - 'sudung.md'
