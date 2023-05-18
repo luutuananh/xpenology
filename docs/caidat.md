@@ -14,7 +14,7 @@ Trang này sẽ hướng dẫn bạn cách để bạn tự cài đặt Xpenolog
 
 ## Lựa chọn platform
 
-Xpenology có thể chạy trên nhiều loại phần cứng khác nhau. Dưới đây là các platform phổ biến của Xpenology: 
+Xpenology có thể chạy trên nhiều loại phần cứng khác nhau. Việc lựa chọn platform nó giống như việc bạn lựa mua phần cứng Synology thật vậy. Nhưng vì phần cứng bạn đã có sẵn, thế nên bạn cần phải lựa chọn platform cho gần giống với phần cứng của bạn nhất. Dưới đây là các platform phổ biến của Xpenology: 
 
 | DSM Platform|DS918+|DS3622xs+ |DS920+|DS1621+ |DS3617xs |DVA3221|DS3615xs |
 |:----------------------------:|-------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
