@@ -4,10 +4,14 @@ theme:
   language: vi
   palette:
     scheme: slate
+  features:
+    - search.suggest
 extra:
   generator: false
 repo_url: https://github.com/luutuananh/xpenology
 plugins:
+  - search:
+      lang: vi
   - git-revision-date-localized:
       enable_creation_date: false
       type: timeago
