@@ -32,6 +32,14 @@ diskidxmap |
 | Max CPU Threads|8 |24 |8|16|24 (as of 7.0)|16|16 |
 | Key Note|currently bestfor most users |best for verylarge installs |see slot mappingtopic below |AMD Ryzen, seeslot mapping topic |obsoleteuse DS3622xs+|AI/Deep LearningnVIDIA GPU |obsoleteuse DS3622xs+| 
 
+Tóm lại, lựa chọn platform chỉ gói gọn trong những ý sau:
+- Nếu bạn dùng CPU AMD chọn DS1621+
+- Nếu bạn dùng CPU nhiều hơn 8 core, CPU Intel thế hệ thứ 3 hoặc cũ hơn chọn DS3622xs+
+- Nếu bạn có gắn GPU GTX 1650 và cần dùng các tính năng AI chọn DVA3221
+- Nếu bạn cần 8 license camera cho Surveillance Station chọn DVA1622
+- Nếu không có nhu cầu gì đặc biệt, hoặc chạy DSM trong hệ thống ảo hoá chọn DS920+
+
+Sau khi đã lựa chọn được platform hãy ghi nhớ platform phù hợp nhất với phần cứng của bạn để đi vào bước tiếp theo.
 
 ## Lựa chọn loader
 
