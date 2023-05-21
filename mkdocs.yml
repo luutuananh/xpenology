@@ -6,8 +6,6 @@ theme:
     scheme: slate
   features:
     - search.suggest
-extra:
-  generator: false
 repo_url: https://github.com/luutuananh/xpenology
 plugins:
   - search:

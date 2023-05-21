@@ -16,21 +16,15 @@ Trang này sẽ hướng dẫn bạn cách để bạn tự cài đặt Xpenolog
 
 Xpenology có thể chạy trên nhiều loại phần cứng khác nhau. Việc lựa chọn platform nó giống như việc bạn lựa mua phần cứng Synology thật vậy. Nhưng vì phần cứng bạn đã có sẵn, thế nên bạn cần phải lựa chọn platform cho gần giống với phần cứng của bạn nhất. Dưới đây là các platform phổ biến của Xpenology: 
 
-| DSM Platform|DS918+|DS3622xs+ |DS920+|DS1621+ |DS3617xs |DVA3221|DS3615xs |
+|DSM Platform|DS918+|DS3622xs+|DS920+|DS1621+|DS3617xs|DVA3221|DS3615xs|
 |:----------------------------:|-------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-| Architecture|apollolake |broadwellnk |geminilake|v1000 |broadwell|denverton|bromolow |
-| Drive Slot Mapping |sataportmap\
-diskidxmap|sataportmap\
-diskidxmap |device tree |device tree|sataportmap\
-diskidxmap |sataportmap\
-diskidxmap|sataportmap\
-diskidxmap |
-|QuickSync Transcoding |Yes |No |Yes|No|No |No|No |
-|NVMe Cache Support|Yes |Yes|Yes|Yes |Yes (as of 7.0) |Yes |No |
-|RAIDF1 Support|No|Yes|No |No|Yes|No|Yes|
-| Oldest CPU Supported |Haswell *|any x86-64|Haswell **|any x86-64|any x86-64|Haswell *|any x86-64|
-| Max CPU Threads|8 |24 |8|16|24 (as of 7.0)|16|16 |
-| Key Note|currently bestfor most users |best for verylarge installs |see slot mappingtopic below |AMD Ryzen, seeslot mapping topic |obsoleteuse DS3622xs+|AI/Deep LearningnVIDIA GPU |obsoleteuse DS3622xs+| 
+|Architecture|apollolake|broadwellnk|geminilake|v1000|broadwell|denverton|bromolow|
+|QuickSync Transcoding|Yes|No|Yes|No|No|No|No|
+|NVMe Cache Support|Yes|Yes|Yes|Yes|Yes (as of 7.0)|Yes|No|
+|RAIDF1 Support|No|Yes|No|No|Yes|No|Yes|
+|Oldest CPU Supported|Haswell *|any x86-64|Haswell **|any x86-64|any x86-64|Haswell *|any x86-64|
+|Max CPU Threads|8|24|8|16|24 (as of 7.0)|16|16|
+|Key Note|Nên dùng|Nên dùng cho CPU nhiều core|Nên dùng|AMD Ryzen|DS3622xs+|nVIDIA GPU|DS3622xs+|
 
 Tóm lại, lựa chọn platform chỉ gói gọn trong những ý sau:
 
