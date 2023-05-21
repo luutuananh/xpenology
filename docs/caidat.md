@@ -33,6 +33,7 @@ diskidxmap |
 | Key Note|currently bestfor most users |best for verylarge installs |see slot mappingtopic below |AMD Ryzen, seeslot mapping topic |obsoleteuse DS3622xs+|AI/Deep LearningnVIDIA GPU |obsoleteuse DS3622xs+| 
 
 Tóm lại, lựa chọn platform chỉ gói gọn trong những ý sau:
+
 - Nếu bạn dùng CPU AMD chọn DS1621+
 - Nếu bạn dùng CPU nhiều hơn 8 core, CPU Intel thế hệ thứ 3 hoặc cũ hơn chọn DS3622xs+
 - Nếu bạn có gắn GPU GTX 1650 và cần dùng các tính năng AI chọn DVA3221
