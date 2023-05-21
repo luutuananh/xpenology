@@ -7,7 +7,7 @@ theme:
 repo_url: https://github.com/luutuananh/xpenology
 plugins:
   - git-revision-date-localized:
-      enable_creation_date: false
+      enable_creation_date: true
       type: timeago
 nav:
   - 'index.md'
