@@ -4,8 +4,6 @@ theme:
   language: vi
   palette:
     scheme: slate
-  features:
-    - search.suggest
 repo_url: https://github.com/luutuananh/xpenology
 plugins:
   - search:
