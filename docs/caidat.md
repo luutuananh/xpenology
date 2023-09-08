@@ -37,16 +37,13 @@ Tóm lại, lựa chọn platform chỉ gói gọn trong những ý sau:
 Sau khi đã lựa chọn được platform hãy ghi nhớ platform phù hợp nhất với phần cứng của bạn để đi vào bước tiếp theo.
 
 ## Lựa chọn loader
-
 Để chạy được DSM phiên bản mới nhất (hiện tại đang là DMS 7.2), bạn cần một trong các loader dưới đây: 
 
 ### ARC Redpill Loader
-
 Đây là loader được phát triển gần đây nhất, là một bản được phát triển thêm từ ARPL được đề cập bên dưới. Loader này ngoài những tính năng của ARPL nó còn có thêm một số add on hữu dụng.
 Download: <https://github.com/AuxXxilium/arc/releases>
 
 ### Automated Redpill Loader (ARPL)
-
 Đây là một loader với giao diện build khá dễ sử dụng. 
 Download: <https://github.com/fbelavenuto/arpl/releases>
 
@@ -54,7 +51,6 @@ Nhưng ARPL trong thời gian gần đây không còn được cập nhật liê
 Download: <https://github.com/wjz304/arpl-i18n/releases>
 
 ### TinyCore RedPill Loader (TCRP)
-
 Đây là loader đầu tiên được phát triển từ bộ loader Redpill, bạn có thể customize rất nhiều thứ với loader này. Nhưng đổi lại nó lại không có giao diện dễ sử dụng như các loader kể trên. 
 Download: <https://github.com/pocopico/tinycore-redpill/releases>
 
