@@ -12,6 +12,10 @@ plugins:
       locale: vi
 extra:
   generator: false
+  social:
+  - icon: fontawesome/brands/facebook 
+    link: https://facebook.com/
+    name: Nhóm facebook Xpenology trên Facebook
 nav:
   - 'index.md'
   - 'caidat.md'
