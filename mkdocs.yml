@@ -1,6 +1,7 @@
 site_name: Hướng dẫn Xpenology toàn tập
 theme:
   name: material
+  font: Inconsolata
   language: vi
   palette:
     scheme: slate
