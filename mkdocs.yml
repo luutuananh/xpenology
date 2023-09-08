@@ -10,6 +10,8 @@ plugins:
       enable_creation_date: false
       type: timeago
       locale: vi
+extra:
+  generator: false
 nav:
   - 'index.md'
   - 'caidat.md'
