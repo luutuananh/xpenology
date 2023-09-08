@@ -6,8 +6,7 @@ theme:
     scheme: slate
 repo_url: https://github.com/luutuananh/xpenology
 plugins:
-  - search:
-      lang: vi
+  - search
   - git-revision-date-localized:
       enable_creation_date: false
       type: timeago
