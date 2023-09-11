@@ -41,18 +41,29 @@ Sau khi đã lựa chọn được platform hãy ghi nhớ platform phù hợp n
 
 ### ARC Redpill Loader
 Đây là loader được phát triển gần đây nhất, là một bản được phát triển thêm từ ARPL được đề cập bên dưới. Loader này ngoài những tính năng của ARPL nó còn có thêm một số add on hữu dụng.
+
 Download: <https://github.com/AuxXxilium/arc/releases>
 
 ### Automated Redpill Loader (ARPL)
 Đây là một loader với giao diện build khá dễ sử dụng. 
+
 Download: <https://github.com/fbelavenuto/arpl/releases>
 
 Nhưng ARPL trong thời gian gần đây không còn được cập nhật liên tục và đều đặn, một trong những người phát triển loader này đã fork thành một bản lodaer khác với tên là ARPL i18n. Với những anh em mới bắt đầu với Xpenology mình thấy đây là loader dễ sử dụng và ổn định nhất, mọi người nên chọn loader này để build Xpenology cho mình.
+
 Download: <https://github.com/wjz304/arpl-i18n/releases>
 
 ### TinyCore RedPill Loader (TCRP)
 Đây là loader đầu tiên được phát triển từ bộ loader Redpill, bạn có thể customize rất nhiều thứ với loader này. Nhưng đổi lại nó lại không có giao diện dễ sử dụng như các loader kể trên. 
+
 Download: <https://github.com/pocopico/tinycore-redpill/releases>
 
 ## Cài đặt Xpenology
 
+Đến đây mới là bước quan trọng, thành bại là ở đây.
+
+### Ghi loader ra USB hoặc SSD
+
+Sau khi chọn được 1 trong các loader được giới thiệu ở trên, bạn vào github của loader và download bản release mới nhất của loader đó. File download về thường được nén lại, bạn cần giải nén ra và lấy được file có đuôi .img. 
+
+Tìm một phần mềm ghi file .img ra USB hoặc SSD. Mình hay dùng <https://etcher.balena.io/#download-etcher>(balenaEtcher)
