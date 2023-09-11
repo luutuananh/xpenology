@@ -62,8 +62,8 @@ Download: <https://github.com/pocopico/tinycore-redpill/releases>
 
 Đến đây mới là bước quan trọng, thành bại là ở đây.
 
-### Ghi loader ra USB hoặc SSD
+### Ghi loader ra USB
 
 Sau khi chọn được 1 trong các loader được giới thiệu ở trên, bạn vào github của loader và download bản release mới nhất của loader đó. File download về thường được nén lại, bạn cần giải nén ra và lấy được file có đuôi .img. 
 
-Tìm một phần mềm ghi file .img ra USB hoặc SSD. Mình hay dùng <https://etcher.balena.io/#download-etcher>(balenaEtcher)
+Tìm một phần mềm ghi file .img ra USB. Mình hay dùng [balenaEtcher](https://etcher.balena.io/#download-etcher). Sau khi ghi xong, bạn cắm USB đó vào máy cần cài Xpenology và cho boot từ USB đó.
